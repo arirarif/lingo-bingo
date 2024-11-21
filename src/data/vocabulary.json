@@ -1,0 +1,134 @@
+[
+  {
+    "id": "word001",
+    "word": "Thank you",
+    "pronunciation": "thank you",
+    "meaning": "An expression of gratitude.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "Used to express gratitude in informal settings.",
+    "example": "Thank you for helping me!"
+  },
+  {
+    "id": "word002",
+    "word": "Hello",
+    "pronunciation": "hello",
+    "meaning": "A greeting used to say hello to someone.",
+    "part_of_speech": "greeting",
+    "difficulty": "easy",
+    "lesson_no": 2,
+    "when_to_say": "Used to greet someone during the day.",
+    "example": "Hello, how are you?"
+  },
+  {
+    "id": "word003",
+    "word": "Goodbye",
+    "pronunciation": "goodbye",
+    "meaning": "A farewell used to say goodbye to someone.",
+    "part_of_speech": "expression",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to say goodbye in formal settings.",
+    "example": "Goodbye, see you again!"
+  },
+  {
+    "id": "word004",
+    "word": "Excuse me",
+    "pronunciation": "excuse me",
+    "meaning": "An expression used to get someone's attention or apologize.",
+    "part_of_speech": "expression",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to get someone's attention or apologize.",
+    "example": "Excuse me, can you please help me?"
+  },
+  {
+    "id": "word005",
+    "word": "Yes",
+    "pronunciation": "yes",
+    "meaning": "An affirmation or agreement.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to agree with someone.",
+    "example": "Yes, I would like to join."
+  },
+  {
+    "id": "word006",
+    "word": "No",
+    "pronunciation": "no",
+    "meaning": "A denial or disagreement.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to disagree with someone.",
+    "example": "No, I don't think so."
+  },
+  {
+    "id": "word007",
+    "word": "Please",
+    "pronunciation": "please",
+    "meaning": "A polite expression used to make a request.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 7,
+    "when_to_say": "Used when requesting something politely.",
+    "example": "Please pass me the salt."
+  },
+  {
+    "id": "word008",
+    "word": "Sorry",
+    "pronunciation": "sorry",
+    "meaning": "An expression of apology.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to apologize for a mistake.",
+    "example": "Sorry, I didn't mean to do that."
+  },
+  {
+    "id": "word009",
+    "word": "Help",
+    "pronunciation": "help",
+    "meaning": "An expression used to request assistance.",
+    "part_of_speech": "verb",
+    "difficulty": "medium",
+    "lesson_no": 9,
+    "when_to_say": "Used to ask for help in a difficult situation.",
+    "example": "Can you help me carry this box?"
+  },
+  {
+    "id": "word010",
+    "word": "Welcome",
+    "pronunciation": "welcome",
+    "meaning": "A polite response to thank someone or greet someone.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 10,
+    "when_to_say": "Used to greet someone or respond politely.",
+    "example": "Welcome to our home!"
+  },
+  {
+    "id": "word011",
+    "word": "Sorry",
+    "pronunciation": "sor-ree",
+    "meaning": "An expression used to apologize for a mistake or inconvenience.",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 11,
+    "when_to_say": "Used to express regret or seek forgiveness.",
+    "example": "Sorry for being late."
+  },
+  {
+    "id": "word012",
+    "word": "Friendship",
+    "pronunciation": "friend-ship",
+    "meaning": "A close bond between two individuals based on mutual trust.",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 12,
+    "when_to_say": "Used to express gratitude for close bonds.",
+    "example": "You and I share a special friendship."
+  }
+]
